@@ -1,0 +1,485 @@
+supplier_id,occupation_role
+sup_00aa39c34afc,Medicine
+sup_00db1d974318,Local administration
+sup_00ed05c8b331,Local administration
+sup_01ec36afae38,Local administration
+sup_02846270a260,Local administration
+sup_029775cbe80e,Local administration
+sup_0325822b3ec2,Dress
+sup_03950b9a869c,Medicine
+sup_03c0b9c27b22,Operative
+sup_03fc016ea8b4,Operative
+sup_047db730bd5d,Unspecified dealers
+sup_04d4d5a2b5d1,Law
+sup_055c3a89f31a,Local administration
+sup_056be6089097,Dress
+sup_05f2e3438bad,Clothing materials
+sup_06e340e6cfb4,Medicine
+sup_0712472cf51f,Clothing materials
+sup_072e009a129b,Local administration
+sup_078e5e150f8b,Local administration
+sup_0865e43451f3,Local administration
+sup_0885e45a9721,Wines spirits and hotels
+sup_090b934b6def,Local administration
+sup_09c90d2c2dc1,Local administration
+sup_09cc2b21b802,Food
+sup_0b0a4b6ba058,Local administration
+sup_0b841ac7a973,Local administration
+sup_0b9373f709d8,Law
+sup_0d85246a7ddf,Unspecified dealers
+sup_0f22f34b164d,Unspecified dealers
+sup_0f904115de95,Clothing materials
+sup_100784269300,Local administration
+sup_11267c63e381,Local administration
+sup_115a3badb022,Local administration
+sup_118947c45b9d,Unspecified dealers
+sup_13182e4ddddc,Unspecified dealers
+sup_1357855ab553,Medicine
+sup_13a21ac3e533,Local administration
+sup_13e96693c5d6,Medicine
+sup_13fd1ea5296d,Food
+sup_1427d0a5df45,Clothing materials
+sup_146472e84ac5,Local administration
+sup_147d3d9b23c9,Dress
+sup_14ba661910d3,Food
+sup_14f7a2ecedfe,Medicine
+sup_1571260c2047,Dress
+sup_1596c0b6e836,Clothing materials
+sup_1612b20235e8,Local administration
+sup_16c7b0a86899,Dress
+sup_18b41e96c7bc,Local administration
+sup_191e1b80c1e2,Food
+sup_199f9173766d,Food
+sup_1a1ecf31443c,General dealers
+sup_1a25889c82a3,Medicine
+sup_1a672d4bb05b,Unspecified dealers
+sup_1b0bc70d6806,Food
+sup_1b9691e4250c,Local administration
+sup_1bfc0657c40f,Medicine
+sup_1c1671df9a7a,Medicine
+sup_1c502126b448,Medicine
+sup_1ce426d6ecc5,Operative
+sup_1d10402c4d08,Medicine
+sup_1d36518abba1,Clothing materials
+sup_1d4a630d099c,Dress
+sup_1e0294c81def,Local administration
+sup_1e3e71424fc6,Local administration
+sup_1e6cdd5eab5a,Wines spirits and hotels
+sup_1ed854df671d,Local administration
+sup_2133a15c4c1b,Medicine
+sup_217bfecb65a0,Wines spirits and hotels
+sup_21dcc8b7b79a,General dealers
+sup_221a7a2efbfe,Dress
+sup_22246132b3ba,Unspecified dealers
+sup_226c84242f95,General dealers
+sup_2287c9aedbb6,Medicine
+sup_23714e879e2d,Local administration
+sup_241c025baa88,Local administration
+sup_243cf9f42df6,Local administration
+sup_24a901b90d26,Wines spirits and hotels
+sup_250019e70467,Local administration
+sup_266633601982,Unspecified dealers
+sup_267c8c8af09b,Medicine
+sup_276e6d09c0d5,Law
+sup_27e6d8e2f351,Dress
+sup_28d64662c420,Medicine
+sup_28dc27355e24,Local administration
+sup_29239584914a,Local administration
+sup_29ba0b84d44d,Local administration
+sup_2a4984ed3ad7,Unspecified dealers
+sup_2a8059c57b2a,Wines spirits and hotels
+sup_2bc13c7abcf8,Unspecified dealers
+sup_2bc51d7dbd6d,Wines spirits and hotels
+sup_2c3200b52fe2,Medicine
+sup_2c485c02cc76,Medicine
+sup_2ce58311394d,Local administration
+sup_2d3b7b3c76ff,Law
+sup_2d653b26a34a,Law
+sup_2d853a6b75ac,Operative
+sup_2deeec711ac6,Wines spirits and hotels
+sup_3106735cb6e4,Local administration
+sup_31145d0c1952,General dealers
+sup_315c9ce13231,Local administration
+sup_31cd356b58a4,Operative
+sup_32719e4fa57d,Local administration
+sup_3291b52b58d0,Medicine
+sup_33e10496beae,Wines spirits and hotels
+sup_34738b36e1b9,Food
+sup_352fee4ff75c,Medicine
+sup_35668cbad222,Wines spirits and hotels
+sup_359d101c4f01,Clothing materials
+sup_35c0032c3d75,Food
+sup_36c7aa0c8d93,Local administration
+sup_371662a621ca,Unspecified dealers
+sup_39031c6ac4e5,Wines spirits and hotels
+sup_3b07fb6a26af,Dress
+sup_3b21015bb7a5,Operative
+sup_3c3a3bd020ea,Medicine
+sup_3cb72f7140a0,Wines spirits and hotels
+sup_3d826555f0b4,Medicine
+sup_3dd096a69f7c,Medicine
+sup_3f0fd7c5bffe,Food
+sup_3feb49347b0c,Operative
+sup_3fec279a0ea7,Medicine
+sup_400c44ac35bc,Wines spirits and hotels
+sup_40366474f256,Local administration
+sup_4043bc4d12a9,Medicine
+sup_415af6fb1986,Food
+sup_421a4404d504,Medicine
+sup_430f8ff701fd,Unspecified dealers
+sup_437cd2612bc8,Local administration
+sup_4388fa761627,Local administration
+sup_44169e20d618,Food
+sup_44656e06aa19,Local administration
+sup_4575524236fd,Local administration
+sup_45f06e529797,Food
+sup_4671d31feb83,Local administration
+sup_48130febb347,Local administration
+sup_481febea4139,Wines spirits and hotels
+sup_486e8895ff97,Local administration
+sup_488bd3dd682b,Law
+sup_488dc0f1cde1,Local administration
+sup_489c12f04727,Clothing materials
+sup_4951501e4d7e,Food
+sup_49af983266f7,Local administration
+sup_4a587452072e,Medicine
+sup_4aa799eb3880,Food
+sup_4af2a0109a45,Wines spirits and hotels
+sup_4cf8d4714334,General dealers
+sup_4da46d9ab17d,Clothing materials
+sup_4da6c70d8b09,Food
+sup_4dcb2bb9b9a6,Local administration
+sup_4de06d56b29e,Local administration
+sup_4de3dad707ec,Food
+sup_4f38a3f845d7,Food
+sup_4f833c1ed38c,Dress
+sup_4fa9888b69b8,General dealers
+sup_50222ea7eb00,Medicine
+sup_5072457203a7,Food
+sup_50797bd18ee1,General dealers
+sup_50edfe522c26,Medicine
+sup_530e396b6e6c,Medicine
+sup_5415d5d780de,Local administration
+sup_542350173df5,Operative
+sup_54295720f809,General dealers
+sup_5430a0baa9c0,Local administration
+sup_54508765c817,Wines spirits and hotels
+sup_5461d9b37684,Operative
+sup_5487e7845e62,Local administration
+sup_54ddeaeb903e,Dress
+sup_552c0156f56e,General dealers
+sup_554a0d203f54,Operative
+sup_557eb4806e24,Local administration
+sup_55c4e09dda4f,Medicine
+sup_55c835a436df,Medicine
+sup_55de3812174f,Local administration
+sup_55e06cc665ce,Wines spirits and hotels
+sup_56489f213aad,Local administration
+sup_56967a17a5dc,General dealers
+sup_56be3c4ee98b,Local administration
+sup_57b9f9f99e5e,Dress
+sup_58a6a42a0e5d,Law
+sup_590ec62b8318,Local administration
+sup_59c1d7212bf7,Local administration
+sup_5ac1e79c2228,Wines spirits and hotels
+sup_5b234fafbf49,Operative
+sup_5b61f586aaa9,Local administration
+sup_5bd38a0d8a71,Law
+sup_5c82b1267e41,Local administration
+sup_5cbf903c7250,Local administration
+sup_5d21dbf87cee,Food
+sup_5d2b6afc3520,Food
+sup_5d2e3f1ad799,Local administration
+sup_5e0c10b406ac,Medicine
+sup_5e8aa797e6d0,Medicine
+sup_5eaa33ad06c3,Medicine
+sup_616967a0080b,Law
+sup_62787e6fe1c6,Medicine
+sup_631dca0360e3,Operative
+sup_634619d73c0a,Local administration
+sup_6384402d7c93,Local administration
+sup_64749fc1d306,Unspecified dealers
+sup_65c5d90d3691,Clothing materials
+sup_667cf598ef7e,Local administration
+sup_66b095422910,Local administration
+sup_66dd6dc4ef61,Unspecified dealers
+sup_6701173c638b,Operative
+sup_677b88186a35,Wines spirits and hotels
+sup_679d5ae6a82b,Local administration
+sup_68b4dfd4e1ce,Medicine
+sup_68f551e7440a,Unspecified dealers
+sup_695417e6414b,General dealers
+sup_69a941a12383,Medicine
+sup_6acdadb7462c,General dealers
+sup_6bb493ff3725,Food
+sup_6c18bc5804fa,Medicine
+sup_6cfd847c8402,Local administration
+sup_6e92a1b78fdb,Local administration
+sup_6ea717ac92c9,Medicine
+sup_6eb13fd49333,Wines spirits and hotels
+sup_6ef040015917,Operative
+sup_6f77cc6f79a7,Food
+sup_71a8f332d587,Wines spirits and hotels
+sup_71c2f3032af3,Law
+sup_722e721054bc,Food
+sup_7386405ff63c,Food
+sup_74d783d1413f,Operative
+sup_7578697c0ed3,Wines spirits and hotels
+sup_75a1be5594c9,Food
+sup_75ffd5f23f46,Food
+sup_7606014ac46a,General dealers
+sup_76526804114f,Local administration
+sup_7657a57b9895,Unspecified dealers
+sup_76e420089506,Local administration
+sup_7826314989eb,Operative
+sup_788e428add6e,Clothing materials
+sup_78fb7ac7218a,General dealers
+sup_79e6201a6256,Dress
+sup_7a8ae2e6f0a4,Unspecified dealers
+sup_7ac3f2ced6c0,Wines spirits and hotels
+sup_7af40b53f5f5,Operative
+sup_7bc9bf775ff3,Local administration
+sup_7c27536b51d0,General dealers
+sup_7ca303298ced,Dress
+sup_7d8a7bcab50a,Food
+sup_7dc099547fed,Medicine
+sup_7dd25972e20e,General dealers
+sup_7e26ee7706c4,Clothing materials
+sup_7f424516fb78,Local administration
+sup_7f6c6869f36a,Law
+sup_8087dc9185a2,Medicine
+sup_81264a43f62c,Medicine
+sup_820f22f2a2ec,Food
+sup_82f80c39c5cf,Medicine
+sup_841e5ed6aa9e,Operative
+sup_84341d8324ed,Law
+sup_845aa93ae968,Medicine
+sup_84eba1da9259,Dress
+sup_85181fcf033e,General dealers
+sup_859e80230f9a,Law
+sup_85f52810058d,Law
+sup_86305d6a154f,Food
+sup_863a222f5aa1,Local administration
+sup_865841511d30,Wines spirits and hotels
+sup_86e8f9c6548b,Law
+sup_897c0b3ce9ae,Local administration
+sup_89a787cc5aaf,Local administration
+sup_8a0698aa7e1f,Medicine
+sup_8b555904d7fc,Local administration
+sup_8c718f3174ef,Clothing materials
+sup_8c9d68c8a140,Food
+sup_8dd279b72678,Food
+sup_8f2e72323108,Local administration
+sup_8fb37abce098,Dress
+sup_918835145c95,Unspecified dealers
+sup_923a3fc914bf,Local administration
+sup_926937874f3b,Operative
+sup_95c878e013fd,Local administration
+sup_9691d72f3a67,Medicine
+sup_97effeece7c2,Food
+sup_97f51c15897e,Local administration
+sup_98d7d8691f7f,Local administration
+sup_98e7898499b1,Law
+sup_9ab89fa55510,Local administration
+sup_9ad93efd0b7d,Clothing materials
+sup_9b2ea29298c4,Local administration
+sup_9b394a2e11de,Food
+sup_9ba5e370a980,General dealers
+sup_9c4063f699e9,Unspecified dealers
+sup_9cbddf22469d,General dealers
+sup_9cdcbed61ad4,Medicine
+sup_9d318b65bf86,Local administration
+sup_9d939d85d7be,Local administration
+sup_9efcbcb74d41,Unspecified dealers
+sup_9f4e6e189c06,Operative
+sup_a013911c08b3,Medicine
+sup_a0693e2a7c60,Operative
+sup_a0c1c29de5f9,Clothing materials
+sup_a11b4c4b8b2a,Dress
+sup_a1806ef8bad1,Clothing materials
+sup_a1c48208cd19,Local administration
+sup_a21fea1180cd,Local administration
+sup_a30e2e5d1257,Local administration
+sup_a3cd58553b7a,Local administration
+sup_a430d15132fb,Operative
+sup_a47d22786980,Local administration
+sup_a483f86da93f,Wines spirits and hotels
+sup_a588ae47b10b,Local administration
+sup_a5f177198826,Medicine
+sup_a6160f275f36,Local administration
+sup_a62a6bcd8764,Dress
+sup_a62dcd43981f,Local administration
+sup_a71758751cba,Clothing materials
+sup_a7c4388b130a,Unspecified dealers
+sup_a87198a13de3,Local administration
+sup_a88265994997,Food
+sup_a8b536ce4ebe,Local administration
+sup_a8e8a85da73b,Unspecified dealers
+sup_a99259fd6012,Local administration
+sup_a9c851aa32b5,Dress
+sup_a9ea8cc75adf,Medicine
+sup_aa0f981dd2a4,Law
+sup_aa7d03347051,Medicine
+sup_aaf08b5f9bc8,Clothing materials
+sup_ab8bcdce6aa4,Local administration
+sup_abbe1f899d10,Dress
+sup_abbf8ea9d8e2,Local administration
+sup_abe7e6fd8431,Medicine
+sup_abeb511d696e,Wines spirits and hotels
+sup_ac27fc415cf3,Local administration
+sup_acf966724ab0,Medicine
+sup_adede79a128d,Medicine
+sup_ae17b66ffcab,Local administration
+sup_ae2aef2cec67,Law
+sup_af06252bbac5,Local administration
+sup_af2f4609c1ba,Local administration
+sup_af5fe49978cf,Medicine
+sup_af7e599bcefa,Unspecified dealers
+sup_af96e5ceedb8,Food
+sup_afe488ac4760,Local administration
+sup_b016fed8e64a,Law
+sup_b01dedd389c6,Medicine
+sup_b03db465e43f,General dealers
+sup_b13626e51701,Food
+sup_b165d61ea0d7,Medicine
+sup_b17d175b5ddc,Food
+sup_b26ae9bdd584,Local administration
+sup_b299f8505f39,Local administration
+sup_b2d58aea3b5e,Local administration
+sup_b3aaa79b3b71,Medicine
+sup_b43a7bd460d6,Law
+sup_b43d1a7461ff,General dealers
+sup_b4c750ae3b85,Medicine
+sup_b5b39e70ca15,Local administration
+sup_b63746fef7af,Food
+sup_b773c9c0ff0a,Local administration
+sup_b7da3e4d66f3,Local administration
+sup_b7f50f5c5cc0,Local administration
+sup_b7fdf67a08d8,Clothing materials
+sup_b97dfbb656b5,Local administration
+sup_b99bf21aaec5,Local administration
+sup_ba083b43285d,Local administration
+sup_baf05f21f6a5,Food
+sup_bbebcd6c4920,Food
+sup_bc872b691202,Wines spirits and hotels
+sup_be4822f8d63c,General dealers
+sup_c02ec252466e,Medicine
+sup_c16eb8d40fc2,Clothing materials
+sup_c1989abd9637,Dress
+sup_c19e9c41cf68,Wines spirits and hotels
+sup_c1dda3300cc6,Clothing materials
+sup_c27d67859e4b,Operative
+sup_c2893e64654c,Operative
+sup_c29a85b7255b,Unspecified dealers
+sup_c2dc4614fe1d,Local administration
+sup_c3137cefe491,Medicine
+sup_c39b0bc3d509,Food
+sup_c3ddfa2f7f7b,Local administration
+sup_c62ef120c4bd,Dress
+sup_c68d17100cce,Medicine
+sup_c6ccf3351616,Medicine
+sup_c6db63ef01ff,Local administration
+sup_c6e81f054fb6,Food
+sup_c7af3e425ce1,Unspecified dealers
+sup_c92aa3fbd9f4,Local administration
+sup_c95166737734,Unspecified dealers
+sup_c9aa1090047d,Clothing materials
+sup_caaf3fc67d0f,Law
+sup_cab3516a2a2c,General dealers
+sup_cb5031f4be36,General dealers
+sup_cc24a53742c7,Medicine
+sup_cc48aa4843e1,Law
+sup_ccfaabd77870,Clothing materials
+sup_cdbe2eca5386,Food
+sup_ce45d6682485,Medicine
+sup_cedc9bece46a,Local administration
+sup_d0dd53fc38cc,General dealers
+sup_d1028d292b4c,Local administration
+sup_d42c1952e79a,Clothing materials
+sup_d4aeefb1e4cf,Food
+sup_d4c7ca1b79e5,Local administration
+sup_d505cdc20d9f,Operative
+sup_d580cf6be65e,Local administration
+sup_d5f66505acc0,Local administration
+sup_d61800a76dac,Local administration
+sup_d6b55c92fa06,Medicine
+sup_d7a76ab8da6f,Local administration
+sup_d7ac89a62a62,General dealers
+sup_d7e20d4102c4,Law
+sup_d83930d49a2c,Medicine
+sup_d83b3c64dc41,General dealers
+sup_d914e967f407,Food
+sup_d9853bfe2df2,Medicine
+sup_db1a7029a977,Operative
+sup_dc3a597cddbf,Operative
+sup_dc4945a50e5b,Dress
+sup_dc772e3afbc8,Local administration
+sup_dcf0f3b0a744,Local administration
+sup_dd1367f186ff,Dress
+sup_dd4c5b743513,Dress
+sup_de1136591e4d,General dealers
+sup_de39f478e2a4,Law
+sup_dea4cf270a68,Clothing materials
+sup_df9dc51f6b48,Local administration
+sup_e00b425b3b0c,Operative
+sup_e0b020cd2947,Operative
+sup_e0e7c2f9e04b,Food
+sup_e0edc22b666a,Medicine
+sup_e17b04b6b01a,Law
+sup_e1aec12b4dff,Dress
+sup_e1cc073f7946,Medicine
+sup_e1e3a3e825e6,Clothing materials
+sup_e3d4a4c5337c,Dress
+sup_e4264df43d54,Local administration
+sup_e496661ea0d9,Local administration
+sup_e56f491a793b,Local administration
+sup_e57ccce640f5,General dealers
+sup_e606510c0961,Food
+sup_e72814aa62d1,Local administration
+sup_e7c4a5f52532,Food
+sup_e7e635a13130,Local administration
+sup_e840eceeee45,Food
+sup_e9a91a04440a,Food
+sup_ea69a0a5c0cc,Local administration
+sup_eb69d96403e3,Local administration
+sup_ebcca8246ed7,Law
+sup_ecd02be00d5b,Unspecified dealers
+sup_ece68f5901b4,Local administration
+sup_ed78467ae633,Clothing materials
+sup_edb435db7443,Local administration
+sup_edc7fab63deb,Local administration
+sup_ee622a8c7684,Law
+sup_f002e489e46b,Law
+sup_f00c8e8cb4e3,Operative
+sup_f0ba2b486fce,Clothing materials
+sup_f1e358804bce,Medicine
+sup_f21a8f2f6469,Local administration
+sup_f24609ce4256,Local administration
+sup_f293541178ab,Law
+sup_f2d40d07e18b,Local administration
+sup_f45e2b6695b3,Medicine
+sup_f4b27f6086c7,Local administration
+sup_f5584e40e97e,Unspecified dealers
+sup_f594a849ffc2,Dress
+sup_f59da28b2b3c,Local administration
+sup_f6e623162462,Wines spirits and hotels
+sup_f8256485573f,Food
+sup_f901855125d4,Unspecified dealers
+sup_f90d2972b7dd,Dress
+sup_f9a8a812f15a,Wines spirits and hotels
+sup_fa332a920bed,Local administration
+sup_fa49af5c7f2b,Food
+sup_fa54e62a1291,Medicine
+sup_fb68c8aab540,Wines spirits and hotels
+sup_fb8bad8b338c,Medicine
+sup_fcf710199b54,Local administration
+sup_fd2c0752d9bb,Food
+sup_fd459e9e72ec,Clothing materials
+sup_fdafab3ac632,Medicine
+sup_fdc6987668c2,Local administration
+sup_fe84d77dde33,Unspecified dealers
+sup_feddafa5ffc3,Dress
+sup_ff03932afcc9,Clothing materials
+sup_ff5ffcf65ff0,General dealers
+sup_ff92e7330d87,Local administration
+sup_ffd3bce02d6d,Law
